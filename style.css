@@ -1,0 +1,34 @@
+#page{
+    background-color: bisque;
+    text-align: center;
+    color: white;
+    list-style-position: inside;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gordon-ramsey{
+    width: auto;
+    height: 300px;
+}
+
+.pork-chops{
+    width: auto;
+    height: 300px;
+}
+
+.chicken-pot-pie{
+    width: auto;
+    height: 300px;
+}
+
+h1{
+    font-size: 60px;
+    font-family: cursive;
+    color: aqua;
+}
+
+h2{
+    font-size: 40px;
+    font-family: cursive;
+    color: aqua;
+}
